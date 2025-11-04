@@ -3,3 +3,4 @@
 ## Tēmas
 1., 2., 3., 4., 5. - Ievads Pitonā 
 6. - 1. Kontroldarbs
+7. - Funkcijas
